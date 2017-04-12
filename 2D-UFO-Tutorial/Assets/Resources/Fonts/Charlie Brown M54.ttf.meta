@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 77b0f32bf377d7f4b9550e7f562c754b
+timeCreated: 1491945295
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Charlie Brown M54
+  fontNames:
+  - Charlie Brown M54
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -2,11 +2,13 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GoldSpawner : MonoBehaviour {
-
+// Spawner that spawn gold(later named moon cheese)
+public class GoldSpawner : MonoBehaviour
+{
     public int maxCount;
     public float delay;
     public GameObject objectToSpawn;
+    // Half the width of the side of the rectangle to spawn objects in
     public float width;
 
     private float _timer = 0.0f;
@@ -16,7 +18,7 @@ public class GoldSpawner : MonoBehaviour {
     {
         int count = GetComponentsInChildren<Transform>().Length;
 
-        if (count < maxCount)
+        if (count <= maxCount)
         {
             _timer += Time.deltaTime;
 

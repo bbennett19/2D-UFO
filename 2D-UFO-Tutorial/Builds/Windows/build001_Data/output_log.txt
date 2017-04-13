@@ -1,0 +1,48 @@
+Initialize engine version: 5.6.0f3 (497a0f351392)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon R9 200 Series (ID=0x67b1)
+    Vendor:   ATI
+    VRAM:     3072 MB
+    Driver:   21.19.519.2
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.091 seconds
+Platform assembly: D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Ben\Documents\2D-UFO\2D-UFO-Tutorial\Builds\Windows\build001_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at -1920,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.904969 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.255382 ms
+
+Unloading 2 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.230020 ms (FindLiveObjects: 0.019467 ms CreateObjectMapping: 0.013319 ms MarkObjects: 0.193903 ms  DeleteObjects: 0.003073 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.402151 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.194928 ms (FindLiveObjects: 0.023821 ms CreateObjectMapping: 0.011526 ms MarkObjects: 0.157274 ms  DeleteObjects: 0.002049 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.319416 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 352.
+Total: 0.287653 ms (FindLiveObjects: 0.033043 ms CreateObjectMapping: 0.012038 ms MarkObjects: 0.240010 ms  DeleteObjects: 0.002305 ms)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 3a8c -> priority: 1 
+  Thread -> id: 6548 -> priority: 1 
+  Thread -> id: cf8 -> priority: 1 
+  Thread -> id: 575c -> priority: 1 

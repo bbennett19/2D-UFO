@@ -2,8 +2,9 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class GoldParticle : MonoBehaviour {
-
+// Handles updating each particle so it magnetizes to the player
+public class GoldParticle : MonoBehaviour
+{
     public Transform magnitizeLocation;
     private ParticleSystem _system;
     private ParticleSystem.Particle[] _particles;
@@ -23,6 +24,8 @@ public class GoldParticle : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
+        // Start the particles flying away from the player so they don't get sucked up right away
+        // After that fly to the player ship with acceleration
 		if(_system != null)
         {
             _startTime += Time.deltaTime;
